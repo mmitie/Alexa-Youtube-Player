@@ -1,5 +1,5 @@
-:boom:
-# Alexa-Youtube-Player
+
+:boom:   # Alexa-Youtube-Player
 Amazon Alexa skill to play audio from YouTube
 
 The purpose of this project is to enable users to listen to audio from Youtube on their Alexa devices. This skill searches for a set of YouTube videos based on a search term provided by the user, and then plays the audio from the most relevant video, while enqueueing the next most-relevant tracks to be played after. There are also several options provided to manage playback settings, namely: previous, next, pause, resume, and repeat mode (which is looping the audio).
