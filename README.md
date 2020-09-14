@@ -9,6 +9,7 @@ As noted at the end of the previous section, your first invocation of the skill,
 
 ### Commands:
 :boom: General Commands
+~~
 :loudspeaker: "Alexa open youtube player"
 	* Starts the skill, which will prompt you for the name of a song (or other audio) that you would like to hear
 :loudspeaker: "Alexa ask youtube player to play {Song Name}"
