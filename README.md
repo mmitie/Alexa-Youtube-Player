@@ -22,7 +22,7 @@ As noted at the end of the previous section, your first invocation of the skill,
 	* These commands are mostly self-explanatory.  "Previous" and "Next" will change the currently playing song to either the one playing before it , or the next song in the queue. There are 20 songs by default in each queue, and after the 20th song, playback will loop back to the 1st song. "Start Over" will replay the current song from the beginning.
 :loudspeaker: "Alexa ask youtube player to repeat"
 	* Turns on Single Repeat Mode. This will result in the currently playing song to repeat indefinitely (until a Stop/Previous/Next/Start Over command is given, or a new song is requested to play).
-:sound: "Alexa ask youtube player to stop repeating" of "Alexa ask youtube player to turn repeat off"
+*:sound: "Alexa ask youtube player to stop repeating" of "Alexa ask youtube player to turn repeat off"
 	* Turns off Single Repeat Mode
-:sound: "Alexa ask youtube player what song this is" or "Alexa ask youtube player for song info"
+*:sound: "Alexa ask youtube player what song this is" or "Alexa ask youtube player for song info"
 	* Returns the title of the YouTube video that the currently playing audio was sourced from
